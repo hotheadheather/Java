@@ -1,0 +1,30 @@
+{"inv": "Reichenbach",
+  "glassProfile": [
+    {
+
+      "inventoryID":"R00630R",
+      "supplyKg":52,
+      "colorName":"Flamingo",
+      "physicalForm":3,
+      "reducingProp":"f",
+      "strikingProp":"t",
+      "colorTransparency":"f",
+      "adventurineType":"f",
+      "costPerKg":56.00
+    },
+    {
+
+      "inventoryID":"R00580R",
+      "supplyKg":87,
+      "colorName":"Green",
+      "physicalForm":1,
+      "reducingProp":"f",
+      "strikingProp":"f",
+      "colorTransparency":"t",
+      "adventurineType":"t",
+      "costPerKg":36.00
+
+    }
+
+  ]
+}
