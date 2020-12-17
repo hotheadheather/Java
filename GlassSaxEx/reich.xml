@@ -1,0 +1,36 @@
+
+
+<?xml-stylesheet type="text/xsl" href="glass.xsl"?>
+
+
+<!--
+Heather Whittlesey 11/19/18
+this is an xml file for a glassblowing table and dat file
+-->
+
+
+<glassInventory>
+<glassProfile>
+<!--root tag-->
+<inventoryID>R00630R</inventoryID>
+<supplyKg>52</supplyKg>
+<colorName>Flamingo</colorName>
+<physicalForm>3</physicalForm>
+<reducingProp>F</reducingProp>
+<strikingProp>T</strikingProp>
+<colorTransparency>F</colorTransparency>
+<adventurineType>F</adventurineType>
+<costPerKg>56.00</costPerKg>
+</glassProfile>
+<glassProfile>
+<inventoryID>R00580R</inventoryID>
+<supplyKg>87</supplyKg>
+<colorName>Green</colorName>
+<physicalForm>1</physicalForm>
+<reducingProp>F</reducingProp>
+<strikingProp>F</strikingProp>
+<colorTransparency>T</colorTransparency>
+<adventurineType>T</adventurineType>
+<costPerKg>36.00</costPerKg>
+</glassProfile>
+</glassInventory>
